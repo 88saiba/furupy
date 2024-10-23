@@ -2,6 +2,8 @@
 ---
 
 ## Overview
+###### DISCLAIMER: Sorry, this is a casual project, haha! But you can try it if you're unsure about something. There are many choices available, and you just have to submit your selection to this application.
+
 This help users decide which whatever doubts there are in their heart. It allows users to input a list of anythings randomly, and save the results to a text file.
 
 ## Features
