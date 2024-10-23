@@ -1,5 +1,4 @@
 # furupy | 振るpy
----
 
 ## Overview
 ###### DISCLAIMER: Sorry, this is a gabut (means not that important) project, haha! But you can try it if you're unsure about something. There are many choices available, and you just have to submit your selection to this application.
